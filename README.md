@@ -1,3 +1,5 @@
+CRUD em PHP com MVC + pegando lista de filmes de uma API
+
 ## Instalação
 Você pode clonar este repositório OU baixar o .zip
 
